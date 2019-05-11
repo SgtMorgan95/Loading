@@ -113,10 +113,10 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-    {youtube: "https://www.youtube.com/watch?v=iiNyQD5Yq3E", name: "Vode An"},
-	{youtube: "https://www.youtube.com/watch?v=WsMRHu1GhbY", name: "Gratua Cuun"},
-	{youtube: "https://www.youtube.com/watch?v=HhF7M1a5H5Y", name: "Dha Werda Verda"},
-	{youtube: "https://www.youtube.com/watch?v=6rzM6WNhS78", name: "Ka'rta Tor"},
+    {ogg: "Vode_An.ogg", name: "Vode An"},
+	{ogg: "Gratua_Cuun.ogg", name: "Gratua Cuun"},
+	{ogg: "Dha_Werda_Verda.ogg", name: "Dha Werda Verda"},
+	{ogg: "Karta_Tor.ogg", name: "Ka'rta Tor"},
 ];
 
 // Random music order?
